@@ -15,3 +15,5 @@ Password = "Admin12345"
 Employee'nin giriş bilgileri:
 UserName = "admin"
 Password = "Emp1234567"
+
+![DbDiagram](https://github.com/user-attachments/assets/529c3d42-01b6-4b17-ab93-0305fca0bed4)
